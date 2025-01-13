@@ -31,10 +31,13 @@
     ]
   },
   "devDependencies": {
+    "@jridgewell/sourcemap-codec": "^1.5.0",
     "@learn-co-curriculum/jest-learn-reporter": "^0.1.0",
+    "@rollup/plugin-terser": "^0.4.4",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "mocha": "^8.2.1"
+    "mocha": "^8.2.1",
+    "svgo": "^2.8.0"
   }
 }
